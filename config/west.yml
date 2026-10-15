@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: zmk-halcyon-module
       remote: splitkb
-      revision: v0.3
+      revision: v0.3-branch
   self:
     path: config
