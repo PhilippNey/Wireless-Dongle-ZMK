@@ -6,8 +6,8 @@ manifest:
       url-base: https://github.com/splitkb
   projects:
     - name: zmk
-      remote: zmkfirmware
-      revision: v0.3
+      remote: splitkb
+      revision: v0.3-branch+halcyon-fixes
       import: app/west.yml
     - name: zmk-halcyon-module
       remote: splitkb
